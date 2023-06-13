@@ -8,6 +8,7 @@ Here are some of the technologies and tools I work with:
 
 - **React Native** 📱 - Building cross-platform mobile applications.
 - **JavaScript** ⚙️ - The language I primarily use for development.
+- **TypeScript** 🌐 - Adding static typing to JavaScript projects.
 - **HTML/CSS** 🌐 - Creating responsive and visually appealing UIs.
 - **Redux** 🔄 - Managing state in complex applications.
 - **Firebase** 🔥 - Building backend and integrating real-time features.
