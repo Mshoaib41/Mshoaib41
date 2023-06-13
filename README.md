@@ -1,6 +1,14 @@
 Hi there Muhammad Shoaib here 👋 
 
 I'm a React Native Developer, passionate about creating stunning mobile applications. I love exploring new technologies and finding creative solutions to complex problems.
+
+## 📫 Get in touch
+
+I'm always open to interesting projects and collaborations. Feel free to reach out to me via the following channels:
+
+- LinkedIn: Muhammad Shoaib(https://www.linkedin.com/in/muhammad-shoaib-093a27218)
+- Email: [shoaibbabar9612@gmail.com](mailto:shoaibbabar9612@gmail.com)
+
 <!--
 **Mshoaib41/Mshoaib41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
