@@ -16,7 +16,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (2025 So Far)
+
+- 🔥 **370+ Commits**
+- 🚀 **200+ Pull Requests**
+- 💯 **GitHub Grade: A**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mshoaib41&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mshoaib41&layout=compact&theme=radical)
