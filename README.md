@@ -50,7 +50,6 @@ I'm always open to interesting opportunities – whether it's a new job, freelan
 
 - 🔗 [LinkedIn – Muhammad Shoaib](https://www.linkedin.com/in/muhammad-shoaib-093a27218)
 - 📧 [shoaibbabar9612@gmail.com](mailto:shoaibbabar9612@gmail.com)
-- 🌐 [Portfolio – Coming Soon]
 
 ---
 
