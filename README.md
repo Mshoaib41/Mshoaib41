@@ -1,40 +1,61 @@
-Hi there Muhammad Shoaib here 👋 
+# Hi there, I'm Muhammad Shoaib 👋
 
-I'm a React Native Developer, passionate about creating stunning mobile applications. I love exploring new technologies and finding creative solutions to complex problems.
+🚀 A passionate **Full Stack Developer** with **5+ years of experience** in building powerful, scalable, and user-friendly web & mobile applications using modern technologies.
 
-## ⚡ Skills
+🌍 Based in Pakistan | 🌐 Open for Remote Work | 🤝 Always looking to collaborate on exciting projects
 
-Here are some of the technologies and tools I work with:
+---
 
-- **React Native** 📱 - Building cross-platform mobile applications.
-- **JavaScript** ⚙️ - The language I primarily use for development.
-- **TypeScript** 🌐 - Adding static typing to JavaScript projects.
-- **HTML/CSS** 🌐 - Creating responsive and visually appealing UIs.
-- **Redux** 🔄 - Managing state in complex applications.
-- **Firebase** 🔥 - Building backend and integrating real-time features.
-- **Git** 🗃️ - Version control and collaboration.
-- **UI/UX Design** 🎨 - Creating intuitive and user-friendly interfaces.
-- **Testing and Debugging** 🧪🐛 - Ensuring high-quality code.
+## 🛠️ Tech Stack
 
+| Frontend        | Backend         | Mobile           | Database       | DevOps & Tools   | Others             |
+|----------------|-----------------|------------------|----------------|------------------|--------------------|
+| React.js ⚛️     | Node.js 🧠       | React Native 📱   | MongoDB 🍃      | GitHub/GitLab 🗂️ | RESTful APIs 🌐     |
+| Next.js ⚡      | Express.js 🚂    | Expo              | Firebase 🔥     | Docker 🐳         | TypeScript ⚙️       |
+| HTML/CSS 🎨     | NestJS (learning) | Android (Java/Basic) | PostgreSQL 🐘 | Postman 🧪        | Figma / Canva 🎨   |
 
-## 📫 Get in touch
+---
 
-I'm always open to interesting projects and collaborations. Feel free to reach out to me via the following channels:
+## 📈 GitHub Stats
 
-- LinkedIn: Muhammad Shoaib(https://www.linkedin.com/in/muhammad-shoaib-093a27218)
-- Email: [shoaibbabar9612@gmail.com](mailto:shoaibbabar9612@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mshoaib41&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mshoaib41&layout=compact&theme=radical)
 
-<!--
-**Mshoaib41/Mshoaib41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💡 Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📲 Built **Alowaa App** – Live on Play Store & App Store with over 2,000+ active users
+- 💼 Collaborated with global clients in **real estate**, **healthcare**, **e-commerce**, and **SaaS**
+- 🌱 Currently building **SmartTeamAI** – an AI-powered workforce management platform
+- 🧠 Strong command over both frontend and backend architecture
+- 💬 Experienced in team leadership, agile development, and clean coding practices
+
+---
+
+## 📚 Currently Exploring
+
+- 🤖 Integrating **AI/ML APIs** into real-time applications (ChatGPT, LangChain, etc.)
+- 🔐 Enhancing **DevOps pipelines** with CI/CD and infrastructure-as-code
+- 🧱 Microservices and scalable backend patterns with TypeScript & Node.js
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to interesting opportunities – whether it's a new job, freelance project, or a tech chat!
+
+- 🔗 [LinkedIn – Muhammad Shoaib](https://www.linkedin.com/in/muhammad-shoaib-093a27218)
+- 📧 [shoaibbabar9612@gmail.com](mailto:shoaibbabar9612@gmail.com)
+- 🌐 [Portfolio – Coming Soon]
+
+---
+
+## ⚡ Fun Fact
+
+> I don't just build apps – I build solutions!  
+> Outside of coding, I enjoy tech podcasts, chai ☕, and perfecting UI details like a pixel ninja. 🎯
+
+---
+
+<!-- GitHub Profile README for Muhammad Shoaib -->
