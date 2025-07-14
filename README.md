@@ -13,7 +13,7 @@
 | React.js ⚛️     | Node.js 🧠       | React Native 📱   | MongoDB 🍃      | GitHub/GitLab 🗂️ | RESTful APIs 🌐     |
 | Next.js ⚡      | Express.js 🚂    | Expo              | Firebase 🔥     | Docker 🐳         | TypeScript ⚙️       |
 | HTML/CSS 🎨     | NestJS (learning) | Android (Java/Basic) | PostgreSQL 🐘 | Postman 🧪        | Figma / Canva 🎨   |
-| n8n / 🎨   | Ruby on Rails 🌐   | Automation 🔥 | Php/Laravel |
+| n8n / 🎨   | Ruby on Rails 🌐   | Automation 🔥 | Php/Laravel | Bubble.io | Framer |
 
 ---
 
