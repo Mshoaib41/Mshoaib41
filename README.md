@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Shoaib 👋
 
-🚀 A passionate **Full Stack Developer** with **5+ years of experience** in building powerful, scalable, and user-friendly web & mobile applications using modern technologies.
+🚀 A passionate **Full Stack Developer** with **6+ years of experience** in building powerful, scalable, and user-friendly web & mobile applications using modern technologies.
 
 🌍 Based in Pakistan | 🌐 Open for Remote Work | 🤝 Always looking to collaborate on exciting projects
 
@@ -17,9 +17,9 @@
 
 ---
 
-## 📈 GitHub Stats (2025 So Far)
+## 📈 GitHub Stats (2026 So Far)
 
-- 🔥 **600+ Commits**
+- 🔥 **100+ Commits**
 - 🚀 **200+ Pull Requests**
 - 💯 **GitHub Grade: A**
 
